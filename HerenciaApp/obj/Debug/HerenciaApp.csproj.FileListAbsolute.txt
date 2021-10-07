@@ -1,0 +1,10 @@
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\bin\Debug\HerenciaApp.exe.config
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\bin\Debug\HerenciaApp.exe
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\bin\Debug\HerenciaApp.pdb
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.Form1.resources
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.Properties.Resources.resources
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.csproj.GenerateResource.cache
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.exe
+D:\Visual Studio\Trabajos\HerenciaApp\HerenciaApp\obj\Debug\HerenciaApp.pdb
